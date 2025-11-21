@@ -1,16 +1,26 @@
 # flutter_textfield_demo
 
-A new Flutter project.
+A small demo project to accompany the "TextField widget in Flutter - Intro & Styling Guide #1" tutorial.
 
-## Getting Started
+What this video covers
 
-This project is a starting point for a Flutter application.
+- 1. What is TextField — basic purpose and usage.
+- 2. How to style a TextField — decoration, borders, icons, hint/style.
+- 3. How to set keyboard types — keyboardType for email, number, etc.
+- 4. How to style TextField globally — ThemeData and InputDecorationTheme.
 
-A few resources to get you started if this is your first Flutter project:
+Watch the tutorial
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Video: https://youtu.be/eY6mfnSj4VU
+- Channel: https://www.youtube.com/@ManojKulkarni30
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Official documentation
+
+- TextField (API): https://api.flutter.dev/flutter/material/TextField-class.html
+- TextFormField (API): https://api.flutter.dev/flutter/material/TextFormField-class.html
+- Forms & input (guide): https://flutter.dev/docs/cookbook/forms/text-input
+
+Quick start
+
+- Clone this repo, open in your Flutter IDE, and run:
+  flutter run
