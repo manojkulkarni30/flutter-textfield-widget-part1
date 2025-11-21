@@ -4,10 +4,10 @@ A small demo project to accompany the "TextField widget in Flutter - Intro & Sty
 
 What this video covers
 
-- 1. What is TextField — basic purpose and usage.
-- 2. How to style a TextField — decoration, borders, icons, hint/style.
-- 3. How to set keyboard types — keyboardType for email, number, etc.
-- 4. How to style TextField globally — ThemeData and InputDecorationTheme.
+- What is TextField — basic purpose and usage.
+- How to style a TextField — decoration, borders, icons, hint/style.
+- How to set keyboard types — keyboardType for email, number, etc.
+- How to style TextField globally — ThemeData and InputDecorationTheme.
 
 Watch the tutorial
 
